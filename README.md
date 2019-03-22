@@ -17,10 +17,14 @@ The app comes with Ionic Geolocation Tracker which can track the route of users,
 
 We need to install node.js which is prerequistic element to this app.
 
+#+BEGIN_SRC sh
 npm install -g ionic cordova
+#+END_SRC
 
 Inside the project directory run , 
 
+#+BEGIN_SRC sh
 ionic serve --port_no
+#+END_SRC
 
 Browser will open up with the app running on the specified port number.
