@@ -1,6 +1,5 @@
 # Ionic tourist tracker 🎮
 
-<img src="https://drive.google.com/open?id=1XRSFXP4VpI2wk-oq_0mqLOsLW0EnMv7a" width="400" />
 
 
 ## Table of Contents
