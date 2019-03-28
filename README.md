@@ -1,6 +1,6 @@
 # Ionic tourist tracker 🎮
 
-
+<img src="https://raw.githubusercontent.com/JishinJames/Ionic_tourist_tracker/master/resources/tourist%20(1).PNG" height=450 width=300> 
 
 ## Table of Contents
 
@@ -27,3 +27,8 @@ ionic serve --port_no
 
 
 Browser will open up with the app running on the specified port number.
+
+<img src="https://raw.githubusercontent.com/JishinJames/Ionic_tourist_tracker/master/resources/tourist%20(2).PNG" height=450 width=300> 
+
+<img src="https://raw.githubusercontent.com/JishinJames/Ionic_tourist_tracker/master/resources/tourist%20(3).PNG" height=450 width=300> 
+
